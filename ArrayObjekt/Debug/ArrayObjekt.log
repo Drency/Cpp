@@ -1,0 +1,4 @@
+﻿  ArrayObjekt.cpp
+C:\Users\Martin\git\RuneLevels\ArrayObjekt\ArrayObjekt.cpp(54,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Martin\git\RuneLevels\ArrayObjekt\ArrayObjekt.cpp(59,20): warning C4018: '<': signed/unsigned mismatch
+  ArrayObjekt.vcxproj -> C:\Users\Martin\git\RuneLevels\ArrayObjekt\Debug\ArrayObjekt.exe

@@ -1,0 +1,2 @@
+C:\Users\Martin\git\RuneLevels\GuessGame\Debug\GuessGame.exe
+C:\Users\Martin\git\RuneLevels\GuessGame\Debug\GuessGame.pdb
